@@ -6,7 +6,7 @@ including (but not limited to): Buszaki lab (eg. Royer et al. 2012), Magee Lab (
 Losonczi Lab (eg. Danielson et al. 2016). This repository contains designs of custom-machined parts for the treadmill and head-
 fixation apparatus, as well as Arduino and Matlab code for tracking the position of the mouse and administer rewards.
 
-Assembly
+Assembly:
 
 Grounding of animal for lick detection: We implant a gold ground pin soldered to about 1 mm of tungsten wire above the cerebellum.
  
