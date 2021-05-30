@@ -2,9 +2,8 @@
 This repository contains desgins to build a head-fixed linear treadmill apparatus and to run related data analysis.
 
 Treadmill setups are a popular approach for in vivo recordings that require head-fixation and have been used by several labs
-including (but not limited to): Buszaki lab (eg. Royer et al. 2012), Magee Lab (eg. Bittner et al. 2015) and 
-Losonczi Lab (eg. Danielson et al. 2016). This repository contains designs of custom-machined parts for a simple treadmill and head-
-fixation apparatus, as well as Arduino and Matlab code for tracking the position of the mouse and administer rewards.
+for example: Royer et al. 2012, Bittner et al. 2015, Danielson et al. 2016. This repository contains designs of custom-machined parts 
+for a simple treadmill and head-fixation apparatus, as well as Arduino and Matlab code for tracking the position of the mouse and administer rewards.
 
 Assembly:
 
