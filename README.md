@@ -36,15 +36,15 @@ To connect the Arduino Uno to the NI breakout box, solder jumper cables so that 
 
 Arduino Uno Pin (Digital) ->	NI Breakout Box (Digital)
 
-2	-> P0-6; PFI-5
+2	-> P0-6 and PFI-5
 
-3 -> P0-5; PFI-4
+3 -> P0-5 and PFI-4
 
-4	-> P0-4; PFI-3
+4	-> P0-4 and PFI-3
 
-5	-> P0-3; PFI-2
+5	-> P0-3 and PFI-2
 
-6 -> P0-2; PFI-1
+6 -> P0-2 and PFI-1
 
 
 Upload the rotary encoder interface code to the Arduino Due. To connect the rotary encoder to the Arduino Due, connect the following pins with jumper cables:
@@ -53,7 +53,7 @@ Encoder Pins ->	Arduino Due Pins (Digital)
 
 Pin 1 (GND) ->	GND
 
-Pin 2 ·	-> Not used
+Pin 2 	-> Not used
 
 Pin 3 (Chan A) ->	3
 
