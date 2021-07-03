@@ -13,7 +13,7 @@ To assemble, clamp gold pin in a helping hand alligator clamp. Insert tungsten w
 
 We tape the RFID scanner to the bottom of the mouse platform. Upload the RFID interface code to the Arduino Uno. Connect the RFID to the Arduino Uno, connect the following pins with jumper cables:
 
-RF522 Pin	->    Arduino Uno Pin (Digital)
+[RF522 Pin	->    Arduino Uno Pin (Digital)]
 
 SDA	 ->         10
 
@@ -34,7 +34,7 @@ RST	  ->        9
 
 To connect the Arduino Uno to the NI breakout box, solder jumper cables so that they have a split in one end. In other ones, one end of the cable will have a single tip (plugged into Arduino), and the other will have two tips (plugged into NI breakout box). This will give use two copies of the RFID signals: one is recorded and used for data analysis and the other is used as input to the pump. Connect the following pins with jumper cables:
 
-Arduino Uno Pin (Digital) ->	NI Breakout Box (Digital)
+[Arduino Uno Pin (Digital) ->	NI Breakout Box (Digital)]
 
 2	-> P0-6 and PFI-5
 
@@ -49,7 +49,7 @@ Arduino Uno Pin (Digital) ->	NI Breakout Box (Digital)
 
 Upload the rotary encoder interface code to the Arduino Due. To connect the rotary encoder to the Arduino Due, connect the following pins with jumper cables:
 
-Encoder Pins ->	Arduino Due Pins (Digital)
+[Encoder Pins ->	Arduino Due Pins (Digital)]
 
 Pin 1 (GND) ->	GND
 
